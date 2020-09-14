@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="tubiaozhizuomoban" unicode="&#58881;" d="M520.7 797c-148.5 0-268.9-120.4-268.9-268.9S519 5.6 519 5.6s270.5 374 270.5 522.5S669.2 797 520.7 797z m0-342.8c-48.2 0-87.3 39.1-87.3 87.3s39.1 87.3 87.3 87.3 87.3-39.1 87.3-87.3-39.1-87.3-87.3-87.3z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
