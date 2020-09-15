@@ -10,6 +10,7 @@
         </div>
         <div class="header-nav_right">
           <div class="format">
+            <i class="iconfont "></i>
             <span class="format-download">移动端</span>
             <span>地图找🐖</span>
           </div>
@@ -38,7 +39,9 @@
 </template>
 
 <script>
-export default {};
+import Icon from 'elment-ui';
+export default {
+};
 </script>
 
 <style lang="less" scoped>
