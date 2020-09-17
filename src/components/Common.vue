@@ -185,10 +185,10 @@ input {
         input {
           position: absolute;
           top: 0;
-          right: 100px;
+          right: 80px;
           display: inline-block;
           margin: 23px 0;
-          border-radius: 25px;
+          border-radius: 25px  0 0 25px;
           width: 270px;
           height: 50px;
           font-size: 20px;
@@ -203,11 +203,12 @@ input {
           display: inline-block;
           width: 60px;
           height: 50px;
-
           margin-top: 23px;
           text-align: right;
           line-height: 50px;
           color: #fff;
+          font-size: 20px;
+          border-radius: 0 25px 25px 0px;
           background-color: #5da750;
         }
       }
