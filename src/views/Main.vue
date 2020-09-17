@@ -1,17 +1,17 @@
 <template>
   <div id="Main">
-   <headerTop></headerTop>
+    <common></common>
   </div>
 </template>
 
 <script>
-import headerTop from './components/headerTop.vue'
+import Common from "../components/Common.vue";
 // import headerTop from './components/headerTop.vue'
 export default {
-    components:{
-         headerTop
-    }
-}
+  components: {
+    Common
+  }
+};
 </script>
 
-<style scoped lang='less'></style>
+<style scoped lang="less"></style>

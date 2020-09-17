@@ -20,9 +20,9 @@ const routes = [
     component: () => import("../views/Message/Message.vue")
   },
   {
-    path: "/header",
-    name: "Header",
-    component: () => import("../components/Header.vue")
+    path: "/common",
+    name: "Common",
+    component: () => import("../components/Common.vue")
   }
 ];
 
