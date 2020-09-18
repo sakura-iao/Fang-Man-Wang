@@ -1,12 +1,7 @@
 <template>
   <div class="hot-sell">
-    <div class="w custom-header">
-      <slot></slot>
-    </div>
+    
     <div class="w hot-sell_main">
-      <div class="hot-sell_main--left">
-        <slot></slot>
-      </div>
       <div class="hot-sell_main--right">
         <div class="top">
           <div class="top-text">
@@ -73,22 +68,11 @@ body {
   width: 56%;
   margin: 0 auto;
 }
-//自定义
-.custom-header {
-  height: 100px;
-  margin-bottom: 10px;
-  border: 1px solid #ccc;
-}
 //热销
 .hot-sell_main {
   position: relative;
   display: flex;
   justify-content: space-between;
-  .hot-sell_main--left {
-    width: 68%;
-    height: 1000px;
-    border: 1px solid #ccc;
-  }
   .hot-sell_main--right {
     position: absolute;
     top: 0;

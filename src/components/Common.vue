@@ -188,7 +188,7 @@ input {
           right: 80px;
           display: inline-block;
           margin: 23px 0;
-          border-radius: 25px  0 0 25px;
+          border-radius: 25px 0 0 25px;
           width: 270px;
           height: 50px;
           font-size: 20px;
@@ -220,6 +220,7 @@ input {
 .main {
   width: 100%;
   height: 500px;
+  border: 1px solid #ccc;
 }
 //脚部版本内容
 .footer {
