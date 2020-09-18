@@ -23,6 +23,10 @@ const routes = [
     path: "/common",
     name: "Common",
     component: () => import("../components/Common.vue")
+  },{
+    path: "/hotsell",
+    name: "Hotsell",
+    component: () => import("../components/hotSell.vue")
   }
 ];
 
