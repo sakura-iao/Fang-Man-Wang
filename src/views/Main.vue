@@ -1,6 +1,8 @@
 <template>
   <div id="Main">
-    <common></common>
+    <common>
+      
+    </common>
   </div>
 </template>
 
