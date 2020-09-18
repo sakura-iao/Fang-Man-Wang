@@ -77,7 +77,6 @@ body {
 .custom-header {
   width: 100%;
   height: 100px;
-  
 }
 //热销
 .hot-sell_main {
@@ -156,6 +155,7 @@ body {
     .content {
       width: 100%;
       margin-top: 25px;
+      padding-top: 1px;
       background-color: #fff;
       border-radius: 5px;
       box-shadow: 1px 1px 10px 1px #ccc;
@@ -164,7 +164,10 @@ body {
         width: 100%;
         height: 40px;
         background-color: #fff;
+        margin-top: 20px;
+        margin-bottom: 20px;
         .title {
+          margin-top: 20px;
           display: flex;
           .vertical-bar {
             width: 2px;
@@ -219,9 +222,6 @@ body {
             }
           }
         }
-        //  {
-        //   margin-bottom: 10px;
-        // }
       }
     }
   }
