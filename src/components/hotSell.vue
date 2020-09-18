@@ -75,8 +75,9 @@ body {
 }
 //自定义
 .custom-header {
-  width: 100%;
   height: 100px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
 }
 //热销
 .hot-sell_main {
@@ -86,7 +87,7 @@ body {
   .hot-sell_main--left {
     width: 68%;
     height: 1000px;
-    background-color: #ccc;
+    border: 1px solid #ccc;
   }
   .hot-sell_main--right {
     position: absolute;
